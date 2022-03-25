@@ -2,7 +2,7 @@
 
 # Tenacity 4.0 src (not full)
 
-<img src="https://media.discordapp.net/attachments/936595673879556138/956925048738951178/image.png?width=600&height=350" alt="logo" width="50%" />
+<img src="https://media.discordapp.net/attachments/936595673879556138/956925048738951178/image.png?width=600&height=650" alt="logo" width="50%" />
   
 
 # [ info ]
